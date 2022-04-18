@@ -58,13 +58,13 @@ const Products = () => {
             <div className="border-bottom mb-4 pb-4">
               <h5 className="font-weight-semi-bold mb-4">Filter by color</h5>
               <form>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" />
-                  <label class="form-check-label" for="inlineRadio1">1</label>
+                <div className="form-check form-check-inline">
+                  <input className="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" />
+                  <label className="form-check-label" htmlFor="inlineRadio1">1</label>
                 </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"/>
-                    <label class="form-check-label" for="inlineRadio1">1</label>
+                <div className="form-check form-check-inline">
+                  <input className="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"/>
+                    <label className="form-check-label" htmlFor="inlineRadio1">1</label>
                 </div>
                 <div className="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
                   <input type="checkbox" className="custom-control-input" defaultChecked id="color-all" />
