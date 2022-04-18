@@ -7,7 +7,7 @@ const Detailpage = () => {
           <div className="d-flex flex-column align-items-center justify-content-center" style={{minHeight: '300px'}}>
             <h1 className="font-weight-semi-bold text-uppercase mb-3">Shop Detail</h1>
             <div className="d-inline-flex">
-              <p className="m-0"><a href>Home</a></p>
+              <p className="m-0"><a href="#">Home</a></p>
               <p className="m-0 px-2">-</p>
               <p className="m-0">Shop Detail</p>
             </div>
@@ -122,16 +122,16 @@ const Detailpage = () => {
               <div className="d-flex pt-2">
                 <p className="text-dark font-weight-medium mb-0 mr-2">Share on:</p>
                 <div className="d-inline-flex">
-                  <a className="text-dark px-2" href>
+                  <a className="text-dark px-2" href="#">
                     <i className="fab fa-facebook-f" />
                   </a>
-                  <a className="text-dark px-2" href>
+                  <a className="text-dark px-2" href="#">
                     <i className="fab fa-twitter" />
                   </a>
-                  <a className="text-dark px-2" href>
+                  <a className="text-dark px-2" href="#">
                     <i className="fab fa-linkedin-in" />
                   </a>
-                  <a className="text-dark px-2" href>
+                  <a className="text-dark px-2" href="#">
                     <i className="fab fa-pinterest" />
                   </a>
                 </div>

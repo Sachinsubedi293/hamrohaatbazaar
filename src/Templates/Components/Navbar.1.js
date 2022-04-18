@@ -1,7 +1,4 @@
 import React, { useState } from 'react'
-import car1 from '../Static/img/car1.jpg';
-import car2 from '../Static/img/car2.jpg';
-import car3 from '../Static/img/car3.jpg';
 
 const Navbar1 = () => {
     const [pos, setpos] = useState("");
