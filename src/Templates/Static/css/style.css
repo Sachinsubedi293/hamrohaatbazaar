@@ -1,0 +1,26 @@
+body{
+    font-family: Poppins;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.searchborder{
+    border-radius: 0;
+}
+.categorynav .nav-link{
+    padding: 8px 30px;
+    border-bottom: 1px solid #EDF1FF;
+}
+.carousel-caption{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+.bg-secondary{
+    background-color: rgba(247, 177, 55, 0.82) !important;
+}
