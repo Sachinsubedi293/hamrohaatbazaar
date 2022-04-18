@@ -37,7 +37,7 @@ const Header = () => {
         </div>
         <div className="row align-items-center py-3  px-xl-5">
           <div className="col-lg-3 d-none d-lg-block">
-            <a href className="text-decoration-none">
+            <a href="#" className="text-decoration-none">
               <img src={logo} className="rounded" alt="" />
             </a>
           </div>
@@ -54,11 +54,11 @@ const Header = () => {
             </form>
           </div>
           <div className="col-lg-3 col-6 text-end">
-            <a href className="btn border">
+            <a href="#" className="btn border">
               <i className="fas fa-heart text-primary" />
               <span className="badge bg-danger">0</span>
             </a>
-            <a href className="btn border">
+            <a href="#" className="btn border">
               <i className="fas fa-shopping-cart text-primary" />
               <span className="badge bg-danger">0</span>
             </a>

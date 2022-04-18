@@ -263,8 +263,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -277,8 +277,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -291,8 +291,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -305,8 +305,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -319,8 +319,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item active" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -333,8 +333,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item active" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -347,8 +347,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item active" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -361,8 +361,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item active" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -375,8 +375,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -389,8 +389,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -403,8 +403,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -417,8 +417,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div><div className="owl-item cloned" style={{width: '266.75px', marginRight: '29px'}}><div className="card product-item border-0">
                         <div className="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
@@ -431,8 +431,8 @@ const Detailpage = () => {
                           </div>
                         </div>
                         <div className="card-footer d-flex justify-content-between bg-light border">
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                          <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                          <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                         </div>
                       </div></div></div></div><div className="owl-nav disabled"><div className="owl-prev">prev</div><div className="owl-next">next</div></div><div className="owl-dots"><div className="owl-dot active"><span /></div><div className="owl-dot"><span /></div></div></div>
             </div>

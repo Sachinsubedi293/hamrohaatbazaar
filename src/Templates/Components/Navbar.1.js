@@ -28,23 +28,23 @@ const Navbar1 = () => {
                     Men
                   </a>
                   <div className="collapse text-start " id="category">
-                    <a href className="ps-5 text-muted">Men's Dresses</a>
+                    <a href="#" className="ps-5 text-muted">Men's Dresses</a>
                   </div>
-                  <a href className="nav-item nav-link">Shirts</a>
-                  <a href className="nav-item nav-link">Jeans</a>
-                  <a href className="nav-item nav-link">Swimwear</a>
-                  <a href className="nav-item nav-link">Sleepwear</a>
-                  <a href className="nav-item nav-link">Sportswear</a>
-                  <a href className="nav-item nav-link">Jumpsuits</a>
-                  <a href className="nav-item nav-link">Blazers</a>
-                  <a href className="nav-item nav-link">Jackets</a>
-                  <a href className="nav-item nav-link">Shoes</a>
+                  <a href="#" className="nav-item nav-link">Shirts</a>
+                  <a href="#" className="nav-item nav-link">Jeans</a>
+                  <a href="#" className="nav-item nav-link">Swimwear</a>
+                  <a href="#" className="nav-item nav-link">Sleepwear</a>
+                  <a href="#" className="nav-item nav-link">Sportswear</a>
+                  <a href="#" className="nav-item nav-link">Jumpsuits</a>
+                  <a href="#" className="nav-item nav-link">Blazers</a>
+                  <a href="#" className="nav-item nav-link">Jackets</a>
+                  <a href="#" className="nav-item nav-link">Shoes</a>
                 </div>
               </nav>
             </div>
             <div className="col-lg-9">
               <nav className="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
-                <a href className="text-decoration-none d-block d-lg-none">
+                <a href="#" className="text-decoration-none d-block d-lg-none">
                   <h1 className="m-0 display-5 font-weight-semi-bold"><span className="text-primary font-weight-bold border px-3 mr-1">E</span>Shopper</h1>
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -58,8 +58,8 @@ const Navbar1 = () => {
                     <a href="contact.html" className="nav-item nav-link">Contact</a>
                   </div>
                   <div className="navbar-nav ml-auto py-0 d-flex align-items-center">
-                    <a href className="btn btn-outline-danger p-1">Login</a>
-                    <a href className="btn btn-outline-danger p-1 ms-2">Register</a>
+                    <a href="#" className="btn btn-outline-danger p-1">Login</a>
+                    <a href="#" className="btn btn-outline-danger p-1 ms-2">Register</a>
                     <div className="dropdown">
                       <a className="dropdown-toggle" type="button" id="triggerId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <i className="fa fa-solid fa-user" />
@@ -67,7 +67,7 @@ const Navbar1 = () => {
                       <div className="dropdown-menu dropdown-menu-end text-center" aria-labelledby="triggerId">
                         <a className="dropdown-item" href="#">Settings</a>
                         <div className="dropdown-divider" />
-                        <a href className="btn btn-outline-danger">Logout</a>
+                        <a href="#" className="btn btn-outline-danger">Logout</a>
                       </div>
                     </div>
                   </div>

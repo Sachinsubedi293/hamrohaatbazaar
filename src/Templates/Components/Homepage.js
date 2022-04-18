@@ -36,7 +36,7 @@ const Homepage = () => {
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4" style={{padding: '30px'}}>
                 <p className="text-right">15 Products</p>
-                <a href className="cat-img position-relative overflow-hidden mb-3">
+                <a href="#" className="cat-img position-relative overflow-hidden mb-3">
                   <img className="img-fluid" src="./images/car2.jpg" alt="" />
                 </a>
                 <h5 className="font-weight-semi-bold m-0">Men's dresses</h5>
@@ -45,7 +45,7 @@ const Homepage = () => {
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4" style={{padding: '30px'}}>
                 <p className="text-right">15 Products</p>
-                <a href className="cat-img position-relative overflow-hidden mb-3">
+                <a href="#" className="cat-img position-relative overflow-hidden mb-3">
                   <img className="img-fluid" src="./images/car2.jpg" alt="" />
                 </a>
                 <h5 className="font-weight-semi-bold m-0">Women's dresses</h5>
@@ -54,7 +54,7 @@ const Homepage = () => {
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4" style={{padding: '30px'}}>
                 <p className="text-right">15 Products</p>
-                <a href className="cat-img position-relative overflow-hidden mb-3">
+                <a href="#" className="cat-img position-relative overflow-hidden mb-3">
                   <img className="img-fluid" src="./images/car2.jpg" alt="" />
                 </a>
                 <h5 className="font-weight-semi-bold m-0">Baby's dresses</h5>
@@ -63,7 +63,7 @@ const Homepage = () => {
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4" style={{padding: '30px'}}>
                 <p className="text-right">15 Products</p>
-                <a href className="cat-img position-relative overflow-hidden mb-3">
+                <a href="#" className="cat-img position-relative overflow-hidden mb-3">
                   <img className="img-fluid" src="./images/car2.jpg" alt="" />
                 </a>
                 <h5 className="font-weight-semi-bold m-0">Accerssories</h5>
@@ -72,7 +72,7 @@ const Homepage = () => {
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4" style={{padding: '30px'}}>
                 <p className="text-right">15 Products</p>
-                <a href className="cat-img position-relative overflow-hidden mb-3">
+                <a href="#" className="cat-img position-relative overflow-hidden mb-3">
                   <img className="img-fluid" src="./images/car2.jpg" alt="" />
                 </a>
                 <h5 className="font-weight-semi-bold m-0">Bags</h5>
@@ -81,7 +81,7 @@ const Homepage = () => {
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4" style={{padding: '30px'}}>
                 <p className="text-right">15 Products</p>
-                <a href className="cat-img position-relative overflow-hidden mb-3">
+                <a href="#" className="cat-img position-relative overflow-hidden mb-3">
                   <img className="img-fluid" src="./images/car2.jpg" alt="" />
                 </a>
                 <h5 className="font-weight-semi-bold m-0">Shoes</h5>
@@ -97,7 +97,7 @@ const Homepage = () => {
                 <div className="position-relative" style={{zIndex: 1}}>
                   <h5 className="text-uppercase text-primary mb-3">20% off the all order</h5>
                   <h1 className="mb-4 font-weight-semi-bold">Spring Collection</h1>
-                  <a href className="btn btn-outline-primary py-md-2 px-md-3">Shop Now</a>
+                  <a href="#" className="btn btn-outline-primary py-md-2 px-md-3">Shop Now</a>
                 </div>
               </div>
             </div>
@@ -107,7 +107,7 @@ const Homepage = () => {
                 <div className="position-relative" style={{zIndex: 1}}>
                   <h5 className="text-uppercase text-primary mb-3">20% off the all order</h5>
                   <h1 className="mb-4 font-weight-semi-bold">Winter Collection</h1>
-                  <a href className="btn btn-outline-primary py-md-2 px-md-3">Shop Now</a>
+                  <a href="#" className="btn btn-outline-primary py-md-2 px-md-3">Shop Now</a>
                 </div>
               </div>
             </div>
@@ -130,8 +130,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -147,8 +147,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -164,8 +164,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -181,8 +181,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -198,8 +198,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -215,8 +215,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -232,8 +232,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -249,8 +249,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -291,8 +291,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -308,8 +308,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -325,8 +325,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -342,8 +342,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -359,8 +359,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -376,8 +376,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -393,8 +393,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
@@ -410,8 +410,8 @@ const Homepage = () => {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
-                  <a href className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-eye text-primary mr-1" />View Detail</a>
+                  <a href="#" className="btn btn-sm text-dark p-0"><i className="fas fa-shopping-cart text-primary mr-1" />Add To Cart</a>
                 </div>
               </div>
             </div>
