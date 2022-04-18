@@ -42,7 +42,7 @@ const Header = () => {
             </a>
           </div>
           <div className="col-lg-6 col-6 text-left">
-            <form action>
+            <form >
               <div className="input-group">
                 <input type="text" className="form-control rounded-start" placeholder="Search for products" />
                 <div className="input-group-append">

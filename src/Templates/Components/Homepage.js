@@ -263,7 +263,7 @@ const Homepage = () => {
                 <h2 className="section-title px-5 mb-3"><span className="bg-secondary px-2">Stay Updated</span></h2>
                 <p>Amet lorem at rebum amet dolores. Elitr lorem dolor sed amet diam labore at justo ipsum eirmod duo labore labore.</p>
               </div>
-              <form action>
+              <form >
                 <div className="input-group">
                   <input type="text" className="form-control border-white p-4 rounded-start" placeholder="Email Goes Here" />
                   <div className="input-group-append rounded-end">

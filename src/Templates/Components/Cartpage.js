@@ -136,7 +136,7 @@ const Cartpage = () => {
               </table>
             </div>
             <div className="col-lg-4">
-              <form className="mb-5" action>
+              <form className="mb-5" >
                 <div className="input-group">
                   <input type="text" className="form-control p-4" placeholder="Coupon Code" />
                   <div className="input-group-append">

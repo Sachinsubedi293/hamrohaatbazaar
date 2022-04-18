@@ -143,7 +143,7 @@ const Products = () => {
             <div className="row pb-3">
               <div className="col-12 pb-1">
                 <div className="row row-cols-md-2 align-items-center justify-content-between mb-4">
-                  <form action className='col-md-6 mt-2 text-center'>
+                  <form className='col-md-6 mt-2 text-center'>
                     <div className="input-group">
                       <input type="text" className="form-control" placeholder="Search by name" />
                       <div className="input-group-append ">

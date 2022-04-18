@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Grid container */}
         <div className="container p-4 pb-0">
           {/* Section: Links */}
-          <section className>
+          <section >
             {/*Grid row*/}
             <div className="row">
               {/* Grid column */}

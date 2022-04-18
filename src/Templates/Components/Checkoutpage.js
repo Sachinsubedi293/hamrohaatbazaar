@@ -46,7 +46,7 @@ const Checkoutpage = () => {
                   <div className="col-md-6 form-group">
                     <label>Country</label>
                     <select className="custom-select">
-                      <option selected>United States</option>
+                      <option Selected>United States</option>
                       <option>Afghanistan</option>
                       <option>Albania</option>
                       <option>Algeria</option>
@@ -108,7 +108,7 @@ const Checkoutpage = () => {
                   <div className="col-md-6 form-group">
                     <label>Country</label>
                     <select className="custom-select">
-                      <option selected>United States</option>
+                      <option Selected>United States</option>
                       <option>Afghanistan</option>
                       <option>Albania</option>
                       <option>Algeria</option>
@@ -182,7 +182,7 @@ const Checkoutpage = () => {
                       <label className="custom-control-label" htmlFor="directcheck">Direct Check</label>
                     </div>
                   </div>
-                  <div className>
+                  <div >
                     <div className="custom-control custom-radio">
                       <input type="radio" className="custom-control-input" name="payment" id="banktransfer" />
                       <label className="custom-control-label" htmlFor="banktransfer">Bank Transfer</label>
